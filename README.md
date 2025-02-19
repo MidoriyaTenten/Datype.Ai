@@ -1,4 +1,4 @@
-#Form Nomor Sidanira Kelas 6 SDN Kebon pala 04 
+# Form Nomor Sidanira Kelas 6 SDN Kebon pala 04 
 
 Langkah Penggunaan
 1.  Input nama lengkap siswa
